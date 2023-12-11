@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch ObstacleAssault (Debug)",
+			"request": "launch",
+			"program": "G:\\GameDev\\Unreal Projects\\Tutorials\\Unreal GameDev C Plus Plus\\ObstacleAssault\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "ObstacleAssault Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "K:\\EpicGames\\Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "K:\\EpicGames\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "K:\\EpicGames\\Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ObstacleAssault (DebugGame)",
+			"request": "launch",
+			"program": "G:\\GameDev\\Unreal Projects\\Tutorials\\Unreal GameDev C Plus Plus\\ObstacleAssault\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "ObstacleAssault Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "K:\\EpicGames\\Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "K:\\EpicGames\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "K:\\EpicGames\\Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ObstacleAssault (Development)",
+			"request": "launch",
+			"program": "G:\\GameDev\\Unreal Projects\\Tutorials\\Unreal GameDev C Plus Plus\\ObstacleAssault\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "ObstacleAssault Win64 Development Build",
+			"args": [
+			],
+			"cwd": "K:\\EpicGames\\Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "K:\\EpicGames\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "K:\\EpicGames\\Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ObstacleAssault (Test)",
+			"request": "launch",
+			"program": "G:\\GameDev\\Unreal Projects\\Tutorials\\Unreal GameDev C Plus Plus\\ObstacleAssault\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "ObstacleAssault Win64 Test Build",
+			"args": [
+			],
+			"cwd": "K:\\EpicGames\\Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "K:\\EpicGames\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "K:\\EpicGames\\Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ObstacleAssault (Shipping)",
+			"request": "launch",
+			"program": "G:\\GameDev\\Unreal Projects\\Tutorials\\Unreal GameDev C Plus Plus\\ObstacleAssault\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "ObstacleAssault Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "K:\\EpicGames\\Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "K:\\EpicGames\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "K:\\EpicGames\\Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ObstacleAssaultEditor (Debug)",
+			"request": "launch",
+			"program": "K:\\EpicGames\\Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "ObstacleAssaultEditor Win64 Debug Build",
+			"args": [
+				"G:\\GameDev\\Unreal Projects\\Tutorials\\Unreal GameDev C Plus Plus\\ObstacleAssault\\ObstacleAssault.uproject"
+			],
+			"cwd": "K:\\EpicGames\\Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "K:\\EpicGames\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "K:\\EpicGames\\Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ObstacleAssaultEditor (DebugGame)",
+			"request": "launch",
+			"program": "K:\\EpicGames\\Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "ObstacleAssaultEditor Win64 DebugGame Build",
+			"args": [
+				"G:\\GameDev\\Unreal Projects\\Tutorials\\Unreal GameDev C Plus Plus\\ObstacleAssault\\ObstacleAssault.uproject"
+			],
+			"cwd": "K:\\EpicGames\\Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "K:\\EpicGames\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "K:\\EpicGames\\Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch ObstacleAssaultEditor (Development)",
+			"request": "launch",
+			"program": "K:\\EpicGames\\Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "ObstacleAssaultEditor Win64 Development Build",
+			"args": [
+				"G:\\GameDev\\Unreal Projects\\Tutorials\\Unreal GameDev C Plus Plus\\ObstacleAssault\\ObstacleAssault.uproject"
+			],
+			"cwd": "K:\\EpicGames\\Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "K:\\EpicGames\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "K:\\EpicGames\\Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "K:\\EpicGames\\Games\\UE_5.1\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=G:\\GameDev\\Unreal Projects\\Tutorials\\Unreal GameDev C Plus Plus\\ObstacleAssault\\ObstacleAssault.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "K:\\EpicGames\\Games\\UE_5.1"
+		}
+	]
+}
